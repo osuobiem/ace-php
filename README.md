@@ -1,3 +1,3 @@
-# LaraPHP
+# Ace-PHP
 
-Laravel-like mini-framework for PHP
+Mini lightweight MVC ORM for PHP
