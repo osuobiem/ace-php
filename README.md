@@ -1,3 +1,3 @@
 # Ace-PHP
 
-Mini lightweight MVC ORM for PHP
+Lightweight MVC ORM for PHP
